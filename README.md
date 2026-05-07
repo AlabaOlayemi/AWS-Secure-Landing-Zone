@@ -1,4 +1,4 @@
-# AWS Secure Landing Zone [ Terrafor ]
+# AWS Secure Landing Zone [ Terraform ]
 
 A production grade, security hardened AWS landing zone built
 entirely with Terraform (Infrastructure as Code). This project
@@ -32,7 +32,7 @@ aws-landing-zone/
 
 ---
 
-## Real-world problems this solves
+## Real world problems this solves
 
 **No audit trail** : CloudTrail records every action so
   security teams know exactly who did what and when
