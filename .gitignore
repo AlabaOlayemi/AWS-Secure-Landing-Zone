@@ -1,0 +1,17 @@
+OFFICIAL_BISCO, Now
+# Terraform state — contains sensitive data
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# AWS credentials
+*.csv
+.aws/
+
